@@ -24,3 +24,7 @@ Dividing each face of our scene into light-map texel regions, we are going to pe
 More info [here](http://coreyauger.com/project_radiosity.php)
 
 ![demo 1](http://coreyauger.com/images/3pass.jpg)
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/coreyauger/cpp_base3d_lib/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
